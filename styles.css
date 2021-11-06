@@ -1,0 +1,23 @@
+body {
+	background-image: url(D2.jpg);
+}
+a {
+	color:green;
+	
+}
+
+h1 {
+	color: blue;
+	padding: 15px;
+	margin: 15px;
+	border: 7px solid rgb(0,100,0);
+	border-radius: 20px;
+}
+
+h3 {
+	color: rgb(0,0,100);
+	padding: 15px;
+	margin: 15px;
+	border: 7px solid green;
+	border-radius: 20px;
+}
